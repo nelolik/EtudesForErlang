@@ -16,3 +16,4 @@ alert([CurrentDepths|DepthsListTail], TeethNumbers, CurrentTeeth) ->
 checkTeeth([]) -> ok;
 checkTeeth([H|T]) when H < 4 -> checkTeeth(T);
 checkTeeth([H|_]) when H == 4 -> bad.
+
