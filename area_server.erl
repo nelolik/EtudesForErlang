@@ -40,4 +40,4 @@ loop1() ->
             loop1()
     end.
 
-start() ->spawn(fun loop1/0).
+start() -> spawn(fun loop1/0).

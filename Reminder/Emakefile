@@ -1,0 +1,5 @@
+{'/mnt/A8E4D737E4D7070A/Studies/Erlang/EtudesForErlang/Reminder/src/*', 
+    [debug_info, 
+        {i,"/mnt/A8E4D737E4D7070A/Studies/Erlang/EtudesForErlang/Reminder/src"}, 
+        {i, "/mnt/A8E4D737E4D7070A/Studies/Erlang/EtudesForErlang/Reminder/include"}, 
+        {outdir, "/mnt/A8E4D737E4D7070A/Studies/Erlang/EtudesForErlang/Reminder/ebin"}]}.
